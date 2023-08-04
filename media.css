@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    border-style: solid;
+    border-color: solid black;
+    margin: 0px 100px 0px 100px;
+    height: fit-content;
+}
+header{
+    background-color:black;
+    color: plum;
+    height: 100px;
+    padding: 30px;
+}
+footer{ background-color: black;
+    color: antiquewhite;
+    height: 25px;
+    padding: 30px;
+
+}
+main{
+    background-image: url('triveni10.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul li{
+    display:inline-block;
+    color: aquamarine;
+    padding: 30px;
+
+}
+ul li a{
+    color:aquamarine;
+    text-decoration: none;
+}
+#home img
+{
+  border-radius: 50%;
+}
+#skills ul li
+{
+    color:crimson
+}
